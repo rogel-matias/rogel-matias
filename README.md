@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Soy Frontend Developer especializado por el momento en la libreria React JS.</p>
+<p align="center">Frontend Developer.</p>
 
 ###
 
